@@ -7,12 +7,13 @@ Data visualisation workshop which took place during February 2021. The objective
 ### notebooks
 
 * **terrorism.ipynb**: explore a terrorism dataset to visualize geographical data.
+* **pokemon.ipynb**: explore a Pokemon dataset to visualize tabular data.
 
 ### Requirements
 
 **Python libraries**:
 ```bash
-$ pip install plotly pandas pycountry
+$ pip install plotly pandas pycountry seaborn
 ```
 Basemap is a little bit tricky to install, you may check this forum for a solution [StackOverflow](https://stackoverflow.com/questions/42299352/installing-basemap-on-mac-python).
 
@@ -23,4 +24,5 @@ jupyter notebook --NotebookApp.iopub_data_rate_limit=1000000000
 
 **Datasets**
 * [Kaggle - Global Terrorism Database](https://www.kaggle.com/START-UMD/gtd)
+* [Kaggle - Pokemon](https://www.kaggle.com/rounakbanik/pokemon)
 
