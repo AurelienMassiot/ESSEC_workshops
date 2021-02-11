@@ -1,0 +1,18 @@
+References
+
+Playing with spaCy features for text analytics:
+https://github.com/explosion/spacy-notebooks/blob/master/notebooks/conference_notebooks/pycon_nlp/00_spacy_intro.ipynb
+https://github.com/explosion/spacy-notebooks/blob/master/notebooks/conference_notebooks/pycon_nlp/01_pride_and_predjudice.ipynb
+https://github.com/explosion/spacy-notebooks/blob/master/notebooks/conference_notebooks/advanced_text_analysis.ipynb
+https://github.com/explosion/spacy-notebooks/blob/master/notebooks/conference_notebooks/pycon_nlp/02_rand_dataset.ipynb
+
+Training a custom NER model:
+https://towardsdatascience.com/train-ner-with-custom-training-data-using-spacy-525ce748fab7
+
+Text Classification:
+https://www.dataquest.io/blog/tutorial-text-classification-in-python-using-spacy/
+
+Alexa dataset:
+https://www.kaggle.com/sid321axn/amazon-alexa-reviews
+Pride and Prejudice book:
+https://www.gutenberg.org/ebooks/42671.txt.utf-8
