@@ -26,3 +26,5 @@ jupyter notebook --NotebookApp.iopub_data_rate_limit=1000000000
 * [Kaggle - Global Terrorism Database](https://www.kaggle.com/START-UMD/gtd)
 * [Kaggle - Pokemon](https://www.kaggle.com/rounakbanik/pokemon)
 
+Both datasets are included in this repository. You need to unzip Global Terrorism Dataset to use it.
+
