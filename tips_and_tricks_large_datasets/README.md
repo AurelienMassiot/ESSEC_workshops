@@ -2,7 +2,8 @@
 
 ### What is it ?
 
-Some tips and tricks that you can use when you struggle using large datasets. Especially as you work on Dataiku, you do not have a clear visibility on what you can use or not.
+Some tips and tricks that you can use when you struggle using large datasets. Especially as you work on Dataiku, you do not have a clear visibility on what you can use or not.  
+
 Sorry, notebooks and schema are in French ;-).
 Here is the schema to illustrate what we do in these notebooks.
 
