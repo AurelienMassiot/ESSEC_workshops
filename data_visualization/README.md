@@ -2,12 +2,17 @@
 
 ### What is it ?
 
-Data visualisation workshop which took place during February 2021. The objective was to show how to make data visualization with Python easily.
+Data visualisation workshop which took place during February 2021 and 2022. The objective was to show how to make data visualization with Python easily.
 
 ### notebooks
 
 * **terrorism.ipynb**: explore a terrorism dataset to visualize geographical data.
+* **Accidents.ipynb**: explore an accidents fake dataset to visualize geographical data.
 * **pokemon.ipynb**: explore a Pokemon dataset to visualize tabular data.
+
+### Dashboard
+
+* **accidents/dashboard.py**: a beautiful dashboard with filters.
 
 ### Requirements
 
